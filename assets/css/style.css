@@ -80,6 +80,9 @@ nav a:first-child {
 article {
 	margin-top: 20px;
 }
+article p {
+	text-indent: 1em;
+}
 .main {
 	width: 960px;
     margin: 0 auto;
@@ -190,4 +193,5 @@ input:focus {
 textarea:focus {
 	background: #6FFFF7;
 }
+
 
